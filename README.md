@@ -14,7 +14,8 @@
 | Codedocs                  | [https://skyrat-ss13.github.io/Skyrat-tg/](https://skyrat-ss13.github.io/Skyrat-tg/) |
 | S.P.L.U.R.T Station Discord     | [https://discord.gg/wynHVMzHzC](https://discord.gg/wynHVMzHzC) |
 
-This is S.P.L.U.R.T Station's downstream fork of bubberstation, which is in turn a fork of TG (formerly skyrat).
+
+This is Matagal Station's downstream fork of S.P.L.U.R.T Station, which is downstream fork of bubberstation, which is in turn a fork of TG (formerly skyrat). (That's big!)
 
 **Please note that this repository contains sexually explicit content and is not suitable for those under the age of 18.**
 
