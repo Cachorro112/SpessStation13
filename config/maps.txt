@@ -23,7 +23,11 @@ endmap
 map foxholestation
 	default
 	maxplayers 20
-	minplayers 0
+	votable
+endmap
+
+map ministation
+	maxplayers 15
 	votable
 endmap
 
